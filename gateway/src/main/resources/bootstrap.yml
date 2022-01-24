@@ -8,6 +8,8 @@ spring:
           uri: lb://test-service
           predicates:
             - Path=/test/**
+  jmx:
+    enabled: true
 server:
   port: 9000
 eureka:

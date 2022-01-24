@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>spring_boot_load_balance</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>demo</name>
+    <name>spring_boot_load_balance</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

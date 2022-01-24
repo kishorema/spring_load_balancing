@@ -1,6 +1,8 @@
 spring:
   application:
     name: eureka
+  jmx:
+    enabled: true
 server:
   port: 8761
 eureka:

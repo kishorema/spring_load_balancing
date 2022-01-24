@@ -4,6 +4,8 @@ spring:
   rabbitmq:
     host: 10.0.1.16
     port: 5672
+  jmx:
+    enabled: true
 server:
   servlet:
     context-path: /test

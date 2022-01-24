@@ -5,12 +5,12 @@
 
     <artifactId>gateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>monitoring</name>
-    <description>Demo project for Spring Boot</description>
+    <name>gateway</name>
+    <description>Demo project for Spring Boot gateway</description>
 
     <parent>
         <groupId>com.example</groupId>
-        <artifactId>demo</artifactId>
+        <artifactId>spring_boot_load_balance</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 

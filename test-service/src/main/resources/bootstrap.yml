@@ -6,6 +6,10 @@ spring:
     port: 5672
   jmx:
     enabled: true
+logging:
+  level:
+    org.springframework.web: DEBUG
+
 server:
   servlet:
     context-path: /test
